@@ -1,5 +1,5 @@
 html {
-  font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+  font-size: 18px; /* px means "pixels": the base font size is now 10 pixels high  */
   font-family: 'Cutive Mono', monospace; /* this should be the rest of the output you got from Google fonts */
   background-color: #e520e8;
 }
@@ -9,8 +9,7 @@ h1, h2, h3 {font-size: 60px;
 }
 
 
-p, li, a {
-  font-size: 16px;
+p, li {
   line-height: 2;
   letter-spacing: 1px;
 }
@@ -25,7 +24,6 @@ p, li, a {
 
 body {
   width: 1200px;
-  padding: 10px;
   margin: 10px auto 100px;
   border: 5px solid black;
   background-color: #f7e5a1;
@@ -38,12 +36,6 @@ h1 {
   color: blue;
   text-shadow: 7px 7px 1px red;
 }
-
-.note {
-  font-size: 10px;
-  text-align: center;
-}
-
 
 
 
