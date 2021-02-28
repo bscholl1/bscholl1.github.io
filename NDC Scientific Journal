@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>NDC Scientific Journal</title>
+    <link href="stylish-donk/bigstyle.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <center>
+      <a href = "index.html">New Donk Home</a>
+      <a href = "donk-living.html">New Donk Living</a>
+      <a href = "donk-agenda.html">The New Donkian Agenda</a>
+      <a href = "ndc-qa.html">NDC Q&A</a>
+      <a href = "donk-news.html">New Donk News</a>
+    </center>
+
+    <h1>NDC Scientific Journal</h1>
+	<br>
+	<br>
+
+    <center>
+      Hello, hi, and yes <b>actually</b>, this is the official and only NDC scientific journal where the greatest minds of New Donk City publish their scientific findings. 
+      I, <b>Dr. Phd. Bishop. Priest. Lord. Gungzat Namar IV</b> preside over the <b>NDC</b> scientific board. My primary focus is the study of <b>dank energy,</b><b> dark cosmic forces</b>, <b>and desert magics.</b>
+      These studies are split up into two categories <b>CORRECT</b> and <b>INCOREECT</b>, yes. Let us begin.
+    </center>
+    <br>
+    <br>
+    <center>
+        CORRECT
+    </center>
+   <ol>
+   <li>study1example</li>
+   <li>study2example</li>
+      
+   </ol>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+
+    <center>
+      <a href = "index.html">New Donk Home</a>
+      <a href = "donk-living.html">New Donk Living</a>
+      <a href = "donk-agenda.html">The New Donkian Agenda</a>
+      <a href = "ndc-qa.html">NDC Q&A</a>
+      <a href = "donk-news.html">New Donk News</a>
+    </center>
+
+  </body>
+
+</html>
