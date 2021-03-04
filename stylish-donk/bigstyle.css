@@ -1,7 +1,8 @@
 html {
   font-size: 18px; /* px means "pixels": the base font size is now 18 pixels high  */
   font-family: 'Cutive Mono', monospace; /* this should be the rest of the output you got from Google fonts */
-  background: url("imgonk/ndc_banner.jpg");
+  background-image: url("imgonk/ndc_banner.jpg");
+  background-size: contain;
   background-color: #e520e8;
   
 }
