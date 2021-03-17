@@ -34,6 +34,15 @@ p, li {
   text-align: center;
 }
 
+.weatherwidget-io {
+  width: 240px;
+  height: 100px;
+  margin-top: 10px;
+  float: right;
+  top: 0px;
+  z-index: 1;
+}
+
 
 body {
   width: 1200px;
@@ -46,9 +55,11 @@ body {
 
 .searchBox { 
   width: 20%; 
-  float: right;
   margin-top: 8px;
   margin-right: 8px;
+  position: relative;
+  left: 960px;
+  top: 100px;
 }
 
 
@@ -62,8 +73,12 @@ h1 {
 /* Add a black background color to the top navigation */
 .topnav {
   margin-top: 10px;
+  margin-right: 0px;
   background-color: rgb(3, 71, 160);
   overflow: hidden;
+  width: 900px;
+  z-index: 0;
+  
 }
 
 /* Style the links inside the navigation bar */
@@ -74,6 +89,7 @@ h1 {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
+
 }
 
 /* Change the color of links on hover */
@@ -86,6 +102,10 @@ h1 {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
+}
+
+.topnav, .weatherwidget-io{
+  display: inline-block;
 }
 
 
