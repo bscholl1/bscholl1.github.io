@@ -134,5 +134,11 @@ div#news p:before
   content: "BREAKING NEWS: Remember that runescape is king! Remember eating pizza! These are each undoubtedly relatable things and so is New Donk City :D Don't forget ever again about it plz. 😃 #pizza #pizzadelivery #egg #NDC #newdonkcity #donk #doomsday #runescape #king https://t.co/N7Pc8wcacN"
 }
 
+.twitter {
+  position: absolute;
+  left: 1000px;
+  top: 190px;
+}
+
 
 
