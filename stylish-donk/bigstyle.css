@@ -59,7 +59,7 @@ body {
   margin-right: 8px;
   position: relative;
   left: 960px;
-  top: 100px;
+  top: 120px;
 }
 
 
@@ -72,24 +72,36 @@ h1 {
 
 /* Add a black background color to the top navigation */
 .topnav {
-  margin-top: 10px;
   margin-right: 0px;
+  width: 400px;
   background-color: rgb(3, 71, 160);
-  overflow: hidden;
-  width: 900px;
-  z-index: 0;
   
+  position:absolute;
+  left: 120px;
+  top: 30px;
+  
+}
+
+.topnav #myLinks {
+  display: none;
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  float: left;
   color: #2fe947;
-  text-align: center;
+  display: block;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 13px;
 
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px;
 }
 
 /* Change the color of links on hover */
@@ -102,13 +114,18 @@ h1 {
 .topnav a.active {
   background-color: #4CAF50;
   color: white;
-}
-
-.topnav, .weatherwidget-io{
   display: inline-block;
+  position: relative;
 }
 
 
+
+marquee{
+  width: 500px;
+  position:relative;
+  top:10px;
+  left: 440px;
+}
 
 
 
