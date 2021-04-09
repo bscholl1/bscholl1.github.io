@@ -76,9 +76,9 @@ h1 {
   width: 400px;
   background-color: rgb(3, 71, 160);
   
-  position:absolute;
-  left: 120px;
-  top: 30px;
+  position:relative;
+  left: -10px;
+  top: -60px;
   
 }
 
